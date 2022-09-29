@@ -11,6 +11,6 @@
         android:layout_height="match_parent"
         android:textSize="45sp"
         android:gravity="center"
-        android:text="fragment3!" />
+        android:text="@string/found" />
 
 </FrameLayout>

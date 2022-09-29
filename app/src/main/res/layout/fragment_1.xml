@@ -11,6 +11,8 @@
         android:layout_height="match_parent"
         android:textSize="45sp"
         android:gravity="center"
-        android:text="fragment1!" />
+        android:text="@string/wechat"/>
+
+
 
 </FrameLayout>
