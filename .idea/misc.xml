@@ -3,13 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android/MyClass/app/src/main/res/drawable-v24/faxian_chosen.xml" value="0.17" />
         <entry key="..\:/Android/MyClass/app/src/main/res/drawable/_06____.xml" value="0.2665" />
         <entry key="..\:/Android/MyClass/app/src/main/res/drawable/faxian.xml" value="0.2665" />
         <entry key="..\:/Android/MyClass/app/src/main/res/drawable/tongxunlu.xml" value="0.2665" />
         <entry key="..\:/Android/MyClass/app/src/main/res/drawable/tongxunlu_1.xml" value="0.2665" />
         <entry key="..\:/Android/MyClass/app/src/main/res/drawable/wechat.xml" value="0.2665" />
+        <entry key="..\:/Android/MyClass/app/src/main/res/drawable/wechat_chosen.xml" value="0.17" />
         <entry key="..\:/Android/MyClass/app/src/main/res/drawable/wo.xml" value="0.2665" />
+        <entry key="..\:/Android/MyClass/app/src/main/res/drawable/wo_chosen.xml" value="0.17" />
         <entry key="..\:/Android/MyClass/app/src/main/res/drawable/wodewo.xml" value="0.2665" />
+        <entry key="..\:/Android/MyClass/app/src/main/res/drawable/wodewo_chosen.xml" value="0.17" />
         <entry key="..\:/Android/MyClass/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Android/MyClass/app/src/main/res/layout/buttom.xml" value="0.264" />
         <entry key="..\:/Android/MyClass/app/src/main/res/layout/fragment_1.xml" value="0.264" />
