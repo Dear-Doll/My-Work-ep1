@@ -1,11 +1,8 @@
 ---
 title: 类微信界面ep1
-date: 2022-09-28 23:15:00
-updated: 2022-09-30 13:30:00
+
 tags: 
   - 安卓
-  - 作业
-cover: https://img1.imgtp.com/2022/09/30/ywxfwgW0.jpg
 ---
 
 ## 1\.设计目标
