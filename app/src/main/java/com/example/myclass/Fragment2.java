@@ -19,15 +19,17 @@ public class Fragment2 extends Fragment {
     private RecyclerView recyclerView;
     private Adapter myadapter;
     private List<String> list = new ArrayList<>();
+    private Context context;
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         View view;
+        context=this.getActivity();
         view = inflater.inflate(R.layout.fragment_2, container, false);
         recyclerView = view.findViewById(R.id.recyclerView1);
         listdata();
-        myadapter = new Adapter();
+        myadapter = new Adapter(context);
         LinearLayoutManager linearLayoutManager = new LinearLayoutManager(this.getActivity());
         linearLayoutManager.setOrientation(LinearLayoutManager.VERTICAL);
         recyclerView.setLayoutManager(linearLayoutManager);
